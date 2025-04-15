@@ -1,1 +1,3 @@
-Arquivo editado pelo GitHub
+V1: Arquivo editado pelo GitHub
+
+V2: Arquivo atualizado pelo noteb.
